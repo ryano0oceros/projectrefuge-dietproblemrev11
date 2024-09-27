@@ -1,0 +1,19 @@
+Food Item: Organic Rolled Quick Oats
+Serving Size: 40g (1/2 cup)
+Price Per Serving: $0.25
+
+Food Item: Original Oatmilk
+Serving Size: 240mL (1 cup)
+Price Per Serving: $0.70
+
+Food Item: Creamy Peanut Butter With Salt
+Serving Size: 32g (2 tbsp)
+Price Per Serving: $0.18
+
+Food Item: Spinach Chopped Organic
+Serving Size: 85g (3/4 cup)
+Price Per Serving: $0.56
+
+Food Item: Salmon Pink Alaskan Wild
+Serving Size: 85g (3 oz)
+Price Per Serving: $1.16
