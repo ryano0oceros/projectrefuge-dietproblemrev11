@@ -1,0 +1,29 @@
+Welcome to the CBC MILP Solver 
+Version: 2.10.3 
+Build Date: Dec 15 2019 
+
+command line - /Users/ryano0oceros/Library/Python/3.9/lib/python/site-packages/pulp/solverdir/cbc/osx/64/cbc /var/folders/j_/dh2pjvxj14zdqffjg3lsjjf40000gn/T/2079dd95e75e44e5b9305c87fff5286d-pulp.mps -timeMode elapsed -branch -printingOptions all -solution /var/folders/j_/dh2pjvxj14zdqffjg3lsjjf40000gn/T/2079dd95e75e44e5b9305c87fff5286d-pulp.sol (default strategy 1)
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 12 COLUMNS
+At line 46 RHS
+At line 54 BOUNDS
+At line 55 ENDATA
+Problem MODEL has 7 rows, 5 columns and 28 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 7 (0) rows, 5 (0) columns and 28 (0) elements
+0  Obj 0 Primal inf 287.5541 (6)
+4  Obj 47.326861
+Optimal - objective value 47.326861
+Optimal objective 47.32686114 - 4 iterations time 0.002
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.00   (Wallclock seconds):       0.01
+
+Status: Optimal
+Minimum Cost: $47.33
+Servings_Oatmilk: 24.08 servings
+Servings_Oats: 50.55 servings
+Servings_PeanutButter: 77.46 servings
+Servings_Salmon: 3.35 servings
+Servings_Spinach: 0.00 servings

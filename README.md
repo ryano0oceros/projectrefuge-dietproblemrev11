@@ -30,12 +30,12 @@ To run the linear programming model, follow these steps:
 
 1. Ensure you have Python and the PuLP library installed. You can install PuLP using pip:
    ```
-   pip install pulp
+   pip3 install pulp
    ```
 
 2. Run the `diet_problem.py` script:
    ```
-   python diet_problem.py
+   python3 diet_problem.py
    ```
 
-The script will output the solution with serving sizes and the minimum cost to satisfy the nutritional 
+The script will output the solution with serving sizes and the minimum cost.
